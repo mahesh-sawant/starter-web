@@ -1,7 +1,7 @@
 # Starter Web-Project
 
 
-##Introduction
+## Introduction
 
 
-##GIT & GITHub Training
+## GIT & GITHub Training
